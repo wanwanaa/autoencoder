@@ -1,2 +1,1 @@
-# autoencoder
-mnist
+# An autoencoder for MNIST
